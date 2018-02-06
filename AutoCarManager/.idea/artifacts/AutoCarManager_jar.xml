@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoCarManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoCarManager_jar</output-path>
+    <root id="archive" name="AutoCarManager.jar">
+      <element id="module-output" name="AutoCarManager" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/MainPackage/sqlite-jdbc-3.20.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
